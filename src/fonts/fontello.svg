@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cancel-circled2" unicode="&#xe800;" d="M612 248l-81-82q-6-5-13-5t-13 5l-76 77-77-77q-5-5-13-5t-13 5l-81 82q-6 5-6 13t6 13l76 76-76 76q-6 6-6 13t6 13l81 82q6 5 13 5t13-5l77-77 76 77q6 5 13 5t13-5l81-82q6-5 6-13t-6-13l-76-76 76-76q6-6 6-13t-6-13z m120 102q0 83-41 152t-110 111-152 41-153-41-110-111-41-152 41-152 110-111 153-41 152 41 110 111 41 152z m125 0q0-117-57-215t-156-156-215-58-216 58-155 156-58 215 58 215 155 156 216 58 215-58 156-156 57-215z" horiz-adv-x="857.1" />
+<glyph glyph-name="right-circled2" unicode="&#xe801;" d="M643 350q0-8-5-13l-179-178q-5-5-13-5-7 0-12 5t-5 12v108h-197q-7 0-12 5t-6 12v108q0 7 6 12t12 5h197v108q0 7 5 12t12 5q7 0 14-5l178-178q5-5 5-13z m89 0q0 83-41 152t-110 111-152 41-153-41-110-111-41-152 41-152 110-111 153-41 152 41 110 111 41 152z m125 0q0-117-57-215t-156-156-215-58-216 58-155 156-58 215 58 215 155 156 216 58 215-58 156-156 57-215z" horiz-adv-x="857.1" />
+<glyph glyph-name="server" unicode="&#xe802;" d="M71 64h572v72h-572v-72z m0 286h572v71h-572v-71z m875-250q0 22-15 38t-38 16-38-16-16-38 16-38 38-16 38 16 15 38z m-875 536h572v71h-572v-71z m875-250q0 22-15 38t-38 15-38-15-16-38 16-38 38-16 38 16 15 38z m0 285q0 23-15 38t-38 16-38-16-16-38 16-38 38-15 38 15 15 38z m54-464v-214h-1000v214h1000z m0 286v-214h-1000v214h1000z m0 286v-215h-1000v215h1000z" horiz-adv-x="1000" />
+<glyph glyph-name="cancel-circled" unicode="&#xe803;" d="M420 770q174 0 297-123t123-297-123-297-297-123-297 123-123 297 123 297 297 123z m86-420l154 154-86 86-154-152-152 152-88-86 154-154-154-152 88-86 152 152 154-152 86 86z" horiz-adv-x="840" />
+</font>
+</defs>
+</svg>
