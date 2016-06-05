@@ -1,0 +1,30 @@
+@mixin transform($transforms) {
+	-webkit-transform: $transforms;
+	   -moz-transform: $transforms;
+		-ms-transform: $transforms;
+		 -o-transform: $transforms;
+			transform: $transforms;
+}
+@mixin scale ($x, $y) {
+	@include transform(scale($x, $y));
+}
+/*
+@include scale(1.1, 1.1);
+*/
+
+@mixin border-radius($radius) {
+	-webkit-border-radius: $radius;
+	   -moz-border-radius: $radius;
+		-ms-border-radius: $radius;
+			border-radius: $radius;
+}
+
+/*
+.box-1 {
+	@include border-radius(10px);
+}
+
+.box-2 {
+	@include border-radius(5px);
+}
+*/
