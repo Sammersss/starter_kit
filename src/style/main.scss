@@ -7,15 +7,3 @@
 * Custom
 */
 @import "partials/app";
-@import "partials/mixin.scss";
-@import "partials/variable.scss";
-@import "partials/header.scss";
-@import "partials/wrapper.scss";
-@import "partials/base.scss";
-@import "partials/footer.scss";
-
-.clearfix:after {
-	content: "";
-	display: table;
-	clear: both;
-}
