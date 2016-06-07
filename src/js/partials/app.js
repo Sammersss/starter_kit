@@ -2,7 +2,7 @@ var a={},
 	b={key:'b'},
 	c={key:'c'};
 
-a[b]=123;
-a[c]=456;
+a[b]=127;
+a[c]=496;
 
 console.log(a[b]);

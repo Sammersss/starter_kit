@@ -1,13 +1,10 @@
 {
-  "name": "study_package",
-  "description": "",
-  "main": "",
+  "name": "test",
+  "version": "0.0.0",
   "authors": [
     "ArtAlex"
   ],
-  "license": "ISC",
-  "homepage": "",
-  "private": true,
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,11 +13,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.*",
-    "bootstrap": "latest",
-    "normalize-css": "latest",
-    "social-likes": "^3.1.0",
-    "iCheck": "jquery-icheck#^1.0.2",
-    "fotorama": "^4.6.4"
+    "normalize.css": "*",
+    "jquery": "2.*"
   }
 }
